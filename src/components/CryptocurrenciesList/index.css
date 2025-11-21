@@ -1,0 +1,70 @@
+/* Write your CSS code here */
+ul {
+    list-style-type: none;
+  }
+  .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .heading {
+    color: #00e7ff;
+  }
+  .classHeadings {
+    color: #ffffff;
+    background-color: #092e33;
+    width: 83vw;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+  }
+  .rowFlex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .cont {
+    border: 2px solid #00e7ff;
+    border-radius: 10px;
+  }
+  .overall {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+/* Write your CSS code here */
+.bgForLi {
+    color: #ffffff;
+    width: 80vw;
+  }
+  
+  .full-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .full-item1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .logo {
+    width: 20px;
+    margin-right: 60px;
+  }
+  .para {
+    margin: 10px;
+    width: 100px;
+    text-align: center;
+  }
+  .bg {
+    background-color: #000000;
+    min-height: 100vh;
+    padding: 20px;
+  }
+      
